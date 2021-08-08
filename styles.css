@@ -1,0 +1,26 @@
+.sec-background{
+    background-color: #264653;
+}
+
+.intro-peragraph{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.button-color{
+    background-color: #E76F51;
+    color: white;
+}
+
+.client-color{
+        color: #E76F51; 
+}
+
+.review-person{
+    color: #23A6F0;
+}
+.make-gray{
+    filter: grayscale(1);
+}
+
+
